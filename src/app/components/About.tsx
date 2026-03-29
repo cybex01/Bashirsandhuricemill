@@ -1,4 +1,5 @@
-import ricemillImage from '@/assets/17225ed38450c8d86dcb27497551cb2b64dca3fb.png';
+import ricemillImage from '../assets/17225ed38450c8d86dcb27497551cb2b64dca3fb.png';
+
 
 
 export function About() {
